@@ -1,0 +1,20 @@
+# 실행 가능한 파일 제외
+*
+!*/
+!*.*
+
+# 컴파일된 실행 파일 제외
+*.out
+*.app
+.dSYM/
+
+# Xcode 관련 파일 제외
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+

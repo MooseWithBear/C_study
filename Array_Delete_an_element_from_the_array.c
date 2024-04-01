@@ -25,7 +25,6 @@ void pop(int arr[], int count)
     
     for (i = 0; i < count; i++)
     {
-        arr = 
         printf("%d \n", arr[i]);
     }
     
